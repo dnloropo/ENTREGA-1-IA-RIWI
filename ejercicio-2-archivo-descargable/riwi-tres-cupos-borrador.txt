@@ -1,0 +1,106 @@
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+ELECCIÓN INDIVIDUAL
+Ana, Camila, Elena
+Criterio: elegi a los que asisten a clases pero igual estan perdiendo
+
+PRIMERA CONSULTA
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+Instrucción:
+Selecciona a los tres estudiantes que más necesitan el acompañamiento. Justifica cada elección y explica por qué dejaste fuera a los demás
+
+PRIMERA RESPUESTA
+Con la información de la tabla, selecciono a Diego, Ana y Gabriela.
+
+Diego (1,9 y 60 % de asistencia): tiene la nota más baja y la menor asistencia. Ha faltado por cuidar a un familiar y dice sentirse muy atrasado, así que es quien acumula más dificultades.
+
+Ana (2,1 y 95 %): asiste casi siempre y estudia por su cuenta, pero no comprende varios conceptos básicos. Su esfuerzo no se está convirtiendo en aprendizaje, lo que indica que necesita otro tipo de apoyo.
+
+Gabriela (2,6 y 80 %): casi no puede practicar porque comparte computador en casa. Su dificultad es una barrera externa.
+
+Por qué quedaron fuera los demás:
+- Hugo (2,5): fue el más difícil de dejar fuera. Le cuesta explicar su código, pero entrega las actividades.
+- Bruno (2,8): su problema principal es el horario de trabajo, y no sé si un acompañamiento lo resuelve.
+- Camila (2,8) y Elena (2,7): están cerca de aprobar y asisten al 100 %.
+- Felipe (4,3): ya aprueba con holgura; busca profundizar, no apoyo para aprobar.
+
+Aclaración: interpreté «necesitar» como estar más lejos de aprobar y tener más obstáculos. La tabla no dice en qué consiste el programa, cuánto dura ni cuál es su propósito. Si el objetivo fuera otro (por ejemplo, que el mayor número apruebe un examen cercano), la selección podría cambiar. ¿Qué ofrece exactamente el acompañamiento y qué se espera lograr con él?
+
+OBSERVACIONES
+la IA entendio "necesitar" como tener la nota mas baja y mas problemas. uso sobre todo la nota y la situacion de cada uno, y dejo la asistencia en segundo plano. supuso que el acompañamiento le sirve a Diego aunque falte mucho, y eso la tabla no lo dice. al final pregunto que ofrece el programa y cual es el objetivo, que es justo lo que no sabiamos.
+
+SEGUNDA CONSULTA
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+Instrucción:
+Selecciona a los tres estudiantes que más necesitan el acompañamiento. Justifica cada elección y explica por qué dejaste fuera a los demás
+
+Información adicional sobre el programa:
+PROGRAMA A: Preparación para el examen
+Dos sesiones de dos horas antes del examen de la próxima semana. El propósito es apoyar a estudiantes para que alcancen la nota mínima de aprobación: 3. Los ocho estudiantes pueden asistir a las dos sesiones. Hay computadores disponibles durante las sesiones. No hay préstamo de equipos ni acompañamiento después del examen.
+
+SEGUNDA RESPUESTA
+Con el propósito del programa (dos sesiones de dos horas antes del examen de la próxima semana, para alcanzar la nota mínima de 3), seleccionaría a Camila, Elena y Bruno.
+
+Camila (2,8): está a dos décimas de aprobar. Se bloquea cuando trabaja sola, y dos sesiones de práctica guiada pueden ayudarle justo en eso.
+
+Elena (2,7): entiende las explicaciones pero comete errores al programar. Es una dificultad concreta que se puede trabajar en cuatro horas.
+
+Bruno (2,8): también está cerca del 3. Su asistencia es baja por el trabajo, pero el caso indica que los ocho pueden asistir a las dos sesiones.
+
+Por qué quedaron fuera los demás:
+- Diego (1,9) y Ana (2,1): son quienes están más lejos de aprobar, pero cuatro horas difícilmente alcanzan para cubrir conceptos básicos o un atraso grande. Necesitan un apoyo más largo que este programa no ofrece.
+- Gabriela (2,6): su problema es no tener computador para practicar en casa, y el programa no presta equipos ni continúa después del examen. Fue la más difícil de dejar fuera, porque en las sesiones sí hay computadores.
+- Hugo (2,5): necesita entender el código que entrega, lo que probablemente requiere más tiempo. También es un caso discutible.
+- Felipe (4,3): ya aprueba.
+
+Aclaración: estoy suponiendo que quienes están más cerca del 3 tienen más probabilidad de alcanzarlo en dos sesiones, y la tabla no lo garantiza. Esta selección no dice que Diego y Ana necesiten menos ayuda, sino que este programa en particular no es el que les sirve.
+
+COMPARACIÓN
+si cambio. en la primera la IA eligio a Diego, Ana y Gabriela, y en la segunda a Camila, Elena y Bruno. no se repitio ninguno. lo que produjo el cambio fue saber que el programa son solo dos sesiones y que el objetivo es llegar a 3 en el examen. con eso la IA dejo de buscar a los que estan peor y busco a los que si pueden aprobar con cuatro horas de apoyo. Felipe quedo por fuera las dos veces.
+
+CONCLUSIÓN
+teniamos que definir para que es el programa. la primera vez solo dijimos "los que mas necesitan" y la IA tuvo que poner el criterio ella: eligio a los de peor nota y mas problemas. cuando le dimos el proposito (dos sesiones para llegar a 3 en el examen) cambio los tres nombres, porque ya no era quien esta peor sino a quien le alcanza esa ayuda. tambien nos tocaba definir que significa "necesitar", cuanto dura el apoyo y que recursos tiene. la IA explico bien las dos respuestas y las dos sonaban convincentes, pero eran distintas, asi que el criterio no lo puso ella, lo pusimos nosotros con el contexto. sin un proposito claro la IA igual responde, pero responde a su propia interpretacion.
